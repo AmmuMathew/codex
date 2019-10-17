@@ -3,7 +3,7 @@
 int main()
 {
 int max[10][10],avail[10],allo[10][10],need[10][10],work[10],ans[10],flag;
-int n,m,i,j,c=0,k,l;
+int n,m,i,j,c=0,k,l,pp;
 int fini[10];
 
 
